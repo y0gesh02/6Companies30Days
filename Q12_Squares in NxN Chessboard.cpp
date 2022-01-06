@@ -5,6 +5,8 @@
         while(N!=0){
             sum += N*N;
             N--;
+            
+            
         }
         return sum;
     }
