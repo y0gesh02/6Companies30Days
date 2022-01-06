@@ -6,6 +6,8 @@ class Solution {
        int element = M+K-1;
        if(element%N  == 0){
            //cycle completed 
+           
+           
            return N;
        }
        return element%N ;
